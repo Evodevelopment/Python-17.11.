@@ -27,3 +27,4 @@ elif weight <= 10:
   drone_ground = weight * 12
 elif weight > 10:
   drone_ground = weight * 14.25
+print(drone_ground)
