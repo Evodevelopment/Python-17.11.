@@ -37,4 +37,3 @@ print(datacamp.keys())
 #output:
 dict_keys(['course', 'level', 'lesson'])
 
-
