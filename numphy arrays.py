@@ -22,3 +22,19 @@ output = datacamp[is_less]
 
 print(output)
 
+#example2
+
+datacamp = {
+    'course': 'python',
+    'level': 'intermediate',
+    'lesson': {
+        'dictionaries': 'python',
+        'lists': 'r'
+    }
+}
+
+print(datacamp.keys())
+#output:
+dict_keys(['course', 'level', 'lesson'])
+
+
